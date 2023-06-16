@@ -4,11 +4,11 @@
 - 🎓 "Stu"dying...
 - 🌱 Learning Web Programming
 - 🤔 Looking for help with Programming in general
-- 
+
 📫 How to reach me: elderrafael6s8p@gmail.com
--
+
 😄 Pronouns: Any
--
+
 ⚡ Fun fact: I can't swim...
 
 <!--
