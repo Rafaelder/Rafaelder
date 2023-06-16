@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 
 -->
+
+![Snake animation](https://github.com/antssousa/antssousa/blob/output/github-contribution-grid-snake.svg) 
