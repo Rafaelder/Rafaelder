@@ -9,8 +9,6 @@
 
 😄 Pronouns: Any 
 
-⚡ Fun fact: I can't swim...
-
 <!--
 **Rafaelder/Rafaelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
